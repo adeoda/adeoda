@@ -8,3 +8,13 @@
 <b>Bluesky:</b><p><a href="https://bsky.app/profile/basketbook.github.io"> basketbook.github.io</a></p>
 <b>Skype (will be deprecated in May):</b><p>live:.cid.adb6b1239ae507c7</p>
 <b>Or if you want to do the old-fashioned way.. E-mail:</b><p><a href="mailto:basketbook@aol.com"> basketbook@aol.com</a></p>
+<hr>
+<h1>My system specs</h1>
+<ul>
+  <li>Computer: Dell Inspiron 11 3.168 (will upgrade soon! promise)</li>
+  <li>CPU: Intel Pentium N3710 @ 1.60 GHz</li>
+  <li>RAM: 4GB</li>
+  <li>Storage device: 120 GB Kingspec SSD</li>
+  <li>System: Arch Linux</li>
+  <li>Desktop Environment: Gnome version 48</li>
+</ul>
