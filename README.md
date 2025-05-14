@@ -16,5 +16,5 @@
   <li>RAM: 4GB</li>
   <li>Storage device: 120 GB Kingspec SSD</li>
   <li>System: Arch Linux</li>
-  <li>Desktop Environment: Gnome version 48</li>
+  <li>Desktop Environment: KDE Plasma 6</li>
 </ul>
