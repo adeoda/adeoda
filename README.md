@@ -1,6 +1,6 @@
 <h1>Hello, humans!</h1>
 <hr>
-<p>I'm Luke M, a.k.a basketbook. I'm a beginner programmer learning new stuff!</p>
+<p>I'm Luke M, a.k.a adeoda. I'm a beginner programmer learning new stuff!</p>
 <p>I don't have so much experience on most programming languages, I am currently learning Python, but I aim to learn other languages.</p>
 <hr>
 <p>If you want to reach me, feel free to contact me by:</p>
